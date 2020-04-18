@@ -6,7 +6,7 @@
 * https://isometric.online/ free isometric illustrations
 * https://www.glazestock.com/
 * https://lukaszadam.com/illustrations
-+ https://www.humaaans.com/ Mix-&-match illustrations of people with a design library. Lego mit Menschen.
+* https://www.humaaans.com/ Mix-&-match illustrations of people with a design library. Lego mit Menschen.
 * https://www.opendoodles.com/ sketch-mäßig
 
 * https://pimpmydrawing.com/ Personen, Bäume, Autos - Silhouetten und Flächen als AI
